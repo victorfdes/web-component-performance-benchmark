@@ -1,0 +1,1 @@
+{"version":1,"preset":"stress","expectedFieldCount":3000,"schemaUrl":"schema.json","recordUrl":"record.json","referenceUrl":"reference.json"}
